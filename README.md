@@ -80,8 +80,7 @@ GIVEN a text editor web application
 ## Usage
 
 - $ npm run start
-
-* Visit http://localhost:3000/
+- Visit http://localhost:3000/
 
 ## Contributing
 
